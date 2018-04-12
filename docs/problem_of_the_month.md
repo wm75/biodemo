@@ -1,3 +1,8 @@
+---
+title: Problem of the Month - April 2018
+layout: post
+---
+
 # Survivorship and Mortality Rates
 
 Suppose that of a cohort of 150 mice in a mouse colony
