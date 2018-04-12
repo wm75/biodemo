@@ -1,6 +1,5 @@
 ---
 title: Welcome
-layout: page
 ---
 
 This is the biodemo site.
