@@ -1,6 +1,6 @@
 ---
 title: Problem of the Month - April 2018
-layout: post
+layout: default
 ---
 
 # Survivorship and Mortality Rates
